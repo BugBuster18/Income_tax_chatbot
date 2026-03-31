@@ -1,0 +1,73 @@
+Elevate processes with AI automation and vendor delight
+Streamline vendor management and collaboration in one unified portal
+Maximise EBITDA with early vendor payments
+Connected finance ecosystem for process automation, greater control, higher savings and productivity
+Complete supply chain solution for ultimate control, effortless collaboration, and assured compliance
+Elevate processes with AI automation and vendor delight
+Streamline vendor management and collaboration in one unified portal
+Maximise EBITDA with early vendor payments
+Connected finance ecosystem for process automation, greater control, higher savings and productivity
+Complete supply chain solution for ultimate control, effortless collaboration, and assured compliance
+Rebate is a tax reduction available to resident individuals when they earn income within 10% tax slab. Under the
+, a rebate of Rs.60,000 is allowed for an income up to Rs. 12 lakhs. Under the old regime, a rebate of Rs. 12,500 is allowed for an income up to Rs. 5 lakhs.
+As a result, the marginal relief will be available for income exceeding just over Rs. 12 lakhs.
+Rebate is a tax benefit provided to middle to low income earners. It is provided only to resident individuals, earning income within 10% slab rate.
+Rs. 60,000 rebate is allowed for income within Rs. 12 lakh under the new regime and Rs. 12,500 for income earned within Rs. 5 lakh under the old regime.
+Persons having income within these income level do not need to pay any income tax.
+The rebate can be applied to the total tax before adding a health and education cess of 4%.
+Only resident individuals are eligible to avail rebate under this section.
+Rebate under Section 87A is available to taxpayers whose taxable income does not exceed:
+The amount of rebate will be lower than the limit specified under Section 87A or total income tax payable (before cess).
+Rebate under Section 87A cannot be adjusted against tax on long-term capital gains under
+Section 87A Rebate Limit - New vs Old Tax Regime
+Income tax rebate limit under Section 87A is different for both the
+For FY 2025-26, taxpayers are eligible for a tax rebate of up to Rs. 60,000 under the new tax regime.
+Taxpayers with a taxable income of up to Rs. 12 lakh will have zero tax liability.
+But the rebate allowed shall not exceed the total tax payable before cess in any case.
+For FY 2025-26, the old tax regime offers a tax rebate of up to Rs. 12,500.
+Taxable income of up to Rs. 5 lakh is effectively tax-free.
+But the rebate allowed shall not exceed the total tax payable before cess in any case.
+How to Claim Income Tax Rebate in FY 2025-26?
+Calculate your gross total income for the financial year
+Reduce your tax deductions for tax savings, investments, etc.
+Arrive at your total taxable income after reducing the tax deductions.
+Declare your gross income and tax deductions in ITR.
+Claim a tax rebate under section 87A if your total income does not exceed specified limits. (if your income does not exceed the limits, rebate is automatically calculated by the portal)
+1. Under the new tax regime for AY 2026 -27
+is not eligible for the taxpayer who pays tax under the new tax regime .
+2. Under the old tax regime for AY 2026-27
+Incomes Not Eligible for Section 87A Rebate
+Section 87A rebate cannot be claimed against tax liabilities on:
+If the income of an individual slightly exceeds Rs 12 lakhs, and tax is more than the income exceeding Rs.12 lakhs, then the tax will be limited to the income exceeding Rs. 12 lakhs.
+In simple words, when the extra tax is greater than extra income above Rs. 12 lakhs, the tax payer is only required to pay excess income above Rs. 12 lakh.
+This is called marginal relief allowed on rebate.
+The steps to calculate the marginal relief on rebate is given below
+Step 1: Calculate excess above Rs. 12 lakhs Total income – Rs 12 Lakh (A)
+Step 2: Compute income-tax liability on total income (B)
+Step 3: if B>A rebate under section 87A would be  (B-A).
+Mr. Ravi, 36, a resident of India, has a total income of Rs 12.15 lakhs, comprising his salary and interest on bank fixed deposits. Under the new tax regime, his tax liability for AY 2026-27 is as follows.
+Step 1: Calculate excess above Rs. 12 lakhs (Rs 12,15,000 – Rs 12,00,000) (A)
+Step 2: Tax on total income of Rs 12,15,000  (Before Cess) (B)
+Step 3: Since B>A, rebate u/s 87A would be (B-A)  (Rs 62,250 - Rs 15,000)
+Tax payable (this is equivalent to income in excess of Rs. 7 lakhs)
+Can NRIs claim a rebate under Section 87A?
+No, this rebate is only allowed for resident individuals. Therefore, taxpayers qualifying as non-residents are not eligible for a rebate under 87A.
+This rebate is only allowed to individuals. HUFs or firms, or companies cannot claim this rebate.
+How can I claim Section 87A rebate in ClearTax Software?
+ClearTax e-filing software automatically gives the rebate while e-filing if you are eligible.
+Is surcharge included while calculating Rebate u/s 87A?
+Rebate u/s 87A is available to those who have taxable income below INR 5 Lakhs and Surcharge is levied if taxable income is above INR 50 Lakhs. So a person availing this section will never attract a levy of surcharge.
+Is income tax rebate u/s 87A available on Long Term Capital Gains (LTCG)?
+Yes, rebate u/s 87A is available on Long term capital gains, but it is not applicable on Long Term Capital Gains from equity or others as specified under section 112A.
+What is the difference between rebate and deduction?
+While both rebate and deduction results in lesser tax liability, they different. Deductions are offered under various sections under the Income Tax Act while rebate is available only u/s 87A. Rebate is limited to resident individuals, while deductions can be claimed as per conditions laid down under respective sections.
+ICICI Prudential Technology Fund Direct Plan Growth
+Aditya Birla Sun Life Tax Relief 96 Growth
+Aditya Birla Sun Life Digital India Fund Direct Plan Growth
+SBI Technology Opportunities Fund Direct Growth
+Clear offers taxation & financial solutions to individuals, businesses, organizations & chartered accountants in India. Clear serves 1.5+ Million happy customers, 20000+ CAs & tax experts & 10000+ businesses across India.
+Efiling Income Tax Returns(ITR) is made easy with Clear platform. Just upload your form 16, claim your deductions and get your acknowledgment number online. You can efile income tax return on your income from salary, house property, capital gains, business & profession and income from other sources. Further you can also file TDS returns, generate Form-16, use our Tax Calculator software, claim HRA, check refund status and generate rent receipts for Income Tax Filing.
+CAs, experts and businesses can get GST ready with Clear GST software & certification course. Our GST Software helps CAs, tax experts & business to manage returns & invoices in an easy manner. Our Goods & Services Tax course includes tutorial videos, guides and expert assistance to help you in mastering Goods and Services Tax. Clear can also help you in getting your business registered for Goods & Services Tax Law.
+Save taxes with Clear by investing in tax saving mutual funds (ELSS) online. Our experts suggest the best funds and you can get high returns by investing directly or through SIP. Download Black by ClearTax App to file returns from your mobile phone.
+Office Address - Defmacro Software Private Limited, C 245A, Ground floor, Room No 1, Vikas Puri, West Delhi, New Delhi, Delhi 110018, India
+Cleartax is a product by Defmacro Software Pvt. Ltd.

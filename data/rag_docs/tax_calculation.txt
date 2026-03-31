@@ -1,0 +1,86 @@
+Elevate processes with AI automation and vendor delight
+Streamline vendor management and collaboration in one unified portal
+Maximise EBITDA with early vendor payments
+Connected finance ecosystem for process automation, greater control, higher savings and productivity
+Complete supply chain solution for ultimate control, effortless collaboration, and assured compliance
+Elevate processes with AI automation and vendor delight
+Streamline vendor management and collaboration in one unified portal
+Maximise EBITDA with early vendor payments
+Connected finance ecosystem for process automation, greater control, higher savings and productivity
+Complete supply chain solution for ultimate control, effortless collaboration, and assured compliance
+FY 2026-2027 (Return to be filed between 1st April 2027 - 31st December 2027) - Latest
+FY 2025-2026 (Return to be filed between 1st April 2026 - 31st December 2026)
+* Slab rates vary for resident senior and super senior citizens.
+Calculating income tax can be complex, especially when considering deductions, exempt allowances, and income from various sources. For those unfamiliar with the Income Tax Act, it can be challenging to calculate tax liabilities based on applicable slab rates. That’s where the ClearTax Income Tax Calculator comes in. It simplifies manual calculations without the need for in-depth knowledge of tax laws.
+The Cleartax Income tax calculator is a simple and easy-to-use online tool designed to calculate your tax liability in detail, according to the provisions and rules of the
+. It enables you to compare your tax liability between the old and new tax regimes, making choosing the more beneficial option easier. It's especially useful if you do not understand the section, provisions and technical aspects of the government's income tax filing portal. Our calculator has been updated in line with tax changes proposed in the union Budget 2026. You can plan your taxes and tax liability for relevant financial years more effectively and make informed financial decisions.
+How to Use the Income Tax Calculator for FY 2026-27 (AY 2027-28)?
+Following are the steps to use the tax calculator:
+Choose the financial year for which you want your taxes to be calculated.
+Select your age accordingly. Tax liability under the old regime differs based on the age groups.
+Enter your salary, i.e. salary before deducting various exemptions such as
+deduction is applicable to you, reduce it from salary and enter the net figure. There is a field available for exempt allowances. Enter the particulars if it applies to your case.
+Along with taxable salary, you must enter other details such as interest income, rental income, interest paid on home loan for rented, and interest paid on loan for self-occupied property.
+For Income from Digital Assets, enter the net income (Sale consideration (-) Cost of Acquisition).
+ou can also enter your tax-saving investments under sections
+Click on 'Calculate' to calculate your tax liability. You will be able to compare the old and new tax regimes.
+What are the Income Tax Slab Rates for FY 2026-27?
+for both old and new regimes for FY 2026-27 are given below:
+Note: No income tax for income up to Rs. 12 Lakhs. This is because of a rebate applicable to the new regime, which is Rs. 60,000. But rebates are not applicable for special tax income.
+Income tax slabs under the old regime (remained consistent through the years)
+Resident Individuals Aged more than 80 Years
+If your income exceeds a certain threshold, you will incur additional taxes on top of the existing rates. This additional tax specifically targets high-income earners.
+10% of Income tax if total income > Rs.50 lakh and < Rs.1 crore,
+15% of Income tax if total income > Rs.1 crore and < Rs.2 crore,
+25% of Income tax if total income > Rs.2 crore and < Rs.5 crore,
+37% of Income tax if total income > Rs.5 crore
+Note: The highest surcharge rate of 37% has been reduced to 25% under the new tax regime.
+Additional Health and Education cess at the rate of 4% will be added to the income tax liability.
+There are certain deductions/exemptions which are not available under the
+When the total taxable income of the taxpayer is within a specified limit, rebate can be claimed, making their tax liability zero. The specified limits for FY 2026-27 are given below:
+*From FY 2026-27, rebate is not applicable for income charged under special rates. At any financial year, rebate is not applicable on long term capital gains under section 112A.
+, include income from all sources. Include:
+Income Tax Calculation Salaried Employees
++ Special Allowance + Transport Allowance + any other allowance.
+Some components of your salary are exempt from tax, such as telephone bill reimbursement and leave travel allowance. If you receive HRA and live on rent, you can claim an exemption on HRA. Calculate the exempt portion of HRA using this
+of Rs. 50,000 is available under the old regime, and Rs. 75,000 under the
+Let's understand income tax calculation under both old and new tax regimes by way of an example:
+Neha receives a Basic Salary of Rs 1 lakh per month. HRA of Rs 50,000. Special Allowance of Rs 21,000 per month. LTA of Rs 20,000 annually. Neha pays a rent of Rs 40,000 and lives in Delhi.
+Neha has income from interest from a savings account of Rs 8,000 and a fixed deposit interest income of Rs 12,000 during the year. Neha has made some investments to save income tax. PPF investment of Rs 50,000. ELSS purchase of Rs 20,000 during the year. LIC premium of Rs 8,000. Medical insurance paid of Rs 12,000. Here are the deductions Neha can claim under the old tax regime.
+PPF deposit Rs 50,000, ELSS investment Rs 20,000, LIC premium Rs 8,000. EPF deducted by employer (Neha’s contribution) = Rs 1,00,000 *12% *12 = 1,44,000
+Calculation of gross taxable income and tax liability in India (Old regime):
+Calculation of gross taxable income and tax liability in India (New regime):
+Using our online Income tax calculator offers several benefits such as:
+Income tax calculator calculates your tax liability accurately eliminating any potential errors that result from calculating the tax liability manually.
+The Income tax calculator is a tool which calculates your tax liability swiftly within few seconds and can be used anytime and anywhere.
+The Income tax calculator is a very user-friendly tool. Simply input your income and deduction details to accurately calculate your tax liability.
+Better Financial Management and Tax Planning
+Understanding your tax liability in advance is essential for effective financial planning. By knowing your potential tax obligations, you can allocate your budget wisely and invest in tax-saving instruments like ELSS, PPF,etc. to reduce the tax liability.
+to calculate your taxes online. You just need to enter your income and investment or deduction details and it will calculate your tax liability accurately.
+Does everyone have to file their income tax returns?
+If the income of an individual is below the basic exemption limit then he is not required to file income tax returns. However, if your income is less than exemption limit and want to claim the income tax refund then they have to file their ITR.
+Does the income tax calculator calculate for TDS?
+No, the income tax calculator does not compute the Tax Deducted at Source (TDS). However, it calculates your tax liability for the assessment year. You can use TDS calculator to calculate TDS.
+How to calculate surcharge or rebate on income tax?
+You just have to input your income and deduction details in the Income tax calculator and it will calculate your tax liability along with surcharge and cess. It will also calculate rebate if it is applicable to you.
+How to calculate income tax on arrear salary?
+You can include your salary arrears in the Income from salary column in the Income tax calculator and it will calculate your tax liability.
+What is the difference between the old and new tax regimes?
+The old tax regime allows you to claim exemptions and deductions (e.g., HRA, 80C investments) to reduce your taxable income. The new tax regime offers lower tax rates but eliminates most exemptions and deductions. The calculator compares your tax liability under both to help you decide the best option.
+Can I use the Income Tax Calculator if I have income from multiple sources?
+Yes, the Income Tax Calculator can calculate income from multiple sources such as salary, interest income, rental income, and capital gains. Simply input all the income details to get an accurate tax calculation
+Does the ClearTax Income Tax Calculator Calculate Accurate Tax Liability?
+Yes, the ClearTax Online Income Tax Calculator is one of the most accurate tax calculation tools available. It complies with all the provisions, sections, and rules of the Income Tax Act, 1961, helping you calculate your tax liability accurately and effectively for the relevant financial year
+Is the ClearTax Online Income Tax Calculator Better than the Government Portal?
+The ClearTax Online Income Tax Calculator is highly accurate and effective in calculating your tax liability, as it fully complies with the rules and regulations of the Income Tax Act, 1961. It helps you estimate your tax for the relevant financial year with ease. However, while the calculator is helpful, you will still need to file your income tax return through the
+Post Office Monthly Income Scheme Calculator
+ICICI Prudential Technology Fund Direct Plan Growth
+Aditya Birla Sun Life Tax Relief 96 Growth
+Aditya Birla Sun Life Digital India Fund Direct Plan Growth
+SBI Technology Opportunities Fund Direct Growth
+Clear offers taxation & financial solutions to individuals, businesses, organizations & chartered accountants in India. Clear serves 1.5+ Million happy customers, 20000+ CAs & tax experts & 10000+ businesses across India.
+Efiling Income Tax Returns(ITR) is made easy with Clear platform. Just upload your form 16, claim your deductions and get your acknowledgment number online. You can efile income tax return on your income from salary, house property, capital gains, business & profession and income from other sources. Further you can also file TDS returns, generate Form-16, use our Tax Calculator software, claim HRA, check refund status and generate rent receipts for Income Tax Filing.
+CAs, experts and businesses can get GST ready with Clear GST software & certification course. Our GST Software helps CAs, tax experts & business to manage returns & invoices in an easy manner. Our Goods & Services Tax course includes tutorial videos, guides and expert assistance to help you in mastering Goods and Services Tax. Clear can also help you in getting your business registered for Goods & Services Tax Law.
+Save taxes with Clear by investing in tax saving mutual funds (ELSS) online. Our experts suggest the best funds and you can get high returns by investing directly or through SIP. Download Black by ClearTax App to file returns from your mobile phone.
+Office Address - Defmacro Software Private Limited, C 245A, Ground floor, Room No 1, Vikas Puri, West Delhi, New Delhi, Delhi 110018, India
+Cleartax is a product by Defmacro Software Pvt. Ltd.

@@ -1,0 +1,89 @@
+Elevate processes with AI automation and vendor delight
+Streamline vendor management and collaboration in one unified portal
+Maximise EBITDA with early vendor payments
+Connected finance ecosystem for process automation, greater control, higher savings and productivity
+Complete supply chain solution for ultimate control, effortless collaboration, and assured compliance
+Elevate processes with AI automation and vendor delight
+Streamline vendor management and collaboration in one unified portal
+Maximise EBITDA with early vendor payments
+Connected finance ecosystem for process automation, greater control, higher savings and productivity
+Complete supply chain solution for ultimate control, effortless collaboration, and assured compliance
+House Rent Allowance (HRA) – Exemption, Calculation and New Income Tax Rules 2026
+House Rent Allowance (HRA) – Exemption, Calculation and New Income Tax Rules 2026
+If you are a salaried individual, you have likely come across the term HRA in your salary slip. HRA full form is
+, a salary component provided by the employer to help employees cover their residential rental expenses. It forms a significant part of the employee's
+and plays a significant role in tax planning.
+House Rent Allowance is a taxable income, the Income Tax Act offers considerable relief to taxpayers. Under Section 10(13A) of the
+, a portion of HRA can be claimed as an exemption, effectively reducing the taxable income. However, the HRA exemption is only available under the Old Tax Regime. Taxpayers opting for the
+cannot claim an HRA exemption, making it fully taxable.
+The new income tax rules makes it mandatory to disclose the relationship between the landlord and tenant for claiming HRA benefit.
+Hyderabad, Pune, Ahmedabad and Bengaluru also have been included under the 50% exemption category.
+HRA Exemption Under New Income Tax Rules 2026
+will be effective from 1st April 2026 and brings much awaited changes in the HRA exemption provisions. The New Income Tax Rules 2026 extends the 50% HRA exemption to 4 more tech cities i.e., Bengalure, Pune, Hyderabad and Ahmedabad. Thus, a total of 8 cities are now eligible for 50% HRA exemption.
+The 50% HRA exemption under the New Income Tax Rules 2026 is applicable to Delhi, Mumbai, Chennai, Kolkata, Bengaluru, Pune, Hyderabad, and Ahmedabad.
+HRA exemption can be claimed if you satisfy the following conditions:
+HRA received can be claimed as a tax exemption, however the exemption is limited to certain threshold and is not fully tax-exempt unless specific conditions are met.
+HRA exemption amount is the lowest of the following:
+50% of basic salary (For metro cities) or 40% of basic salary (Non-metro cities), or
+In simple terms, the amount that can be claimed u/s 10(13A) as HRA exemption is least of the following:
+Salary here means Basic + Dearness Allowance + Commission as a percentage of turnover.
+Metro Cities include Delhi, Chennai,, Mumbai, Kolkata, Bengaluru, Pune, Hyderabad, and Ahmedabad.
+Mr. Anwar, employed in New Delhi, has taken up an accommodation on rent for which he pays Rs. 10,000 per month during the FY 2025-26. He receives a basic salary of Rs. 27,000 monthly. He also gets an HRA of Rs. 1 lakh from his employer during the year.
+HRA exemption would be the lowest of the following:
+50% of Basic Salary & DA, as he stays in New Delhi
+(Rs.10,000*12) - 10% of Rs. 3,24,000 = Rs. 87,600
+As the HRA received is Rs. 1 lakhs the entire HRA component will not be exempt for Mr. Anwar. The exemption will be the least i.e.,
+. The remaining HRA component  of Rs. 12,400 (Rs. 1 lakh - Rs. 87,600) will be taxed at applicable
+. This is only if Mr. Anwar opts for the Old Tax Regime.
+This exemption will not to available to Mr. Anwar under the New Tax Regime implying that the entire HRA of Rs. 1 lakhs will be taxed at applicable slab rates.
+Confused with all the math? Use ClearTax's
+To be able to claim an exemption for the HRA component, it is important for you to
+. The exemption should be clearly shown in the ITR form. Make sure to provide proof to HR to reduce monthly
+What Documents are Required to Claim HRA Exemption?
+The following are the important documents required to claim HRA. There is no necessity to submit all the supporting documents along with the income tax return. But for submission of proofs to the employer, and to respond to the department in case of any notices, the following documentation is recommended.
+PAN of landlord - if the rent exceeds Rs.1 Lakh per annum. Else, you may lose out on the HRA exemption.
+Landlords without a PAN must sign a self declaration stating he does not have a PAN, as per circular No. 8/2013 dated 10 October 2013.
+Special Cases Where HRA Exemption Can be Claimed
+You can claim an HRA exemption if you are
+. However, it is important to make sure that it is disclosed as rental income in your parent's ITR.
+interest deduction and HRA exemption, if you own a house in one city but pay rent in another city due to work.
+of the Income Tax Act allows taxpayers without HRA component but paying rent to claim a deduction against the rental expense incurred. However, the deduction is limited to specified threshold.
+However, a maximum deduction of Rs. 60,000 can be claimed in a year under Section 80GG under the old tax regime only. Section 80GG deduction is not available under the new tax regime.
+Maximize Your Refund, Minimize The Effort.
+When can I claim tax exemption on house rent allowance?
+You can only claim tax exemption on HRA if the HRA component is part of your salary and paying rent for your residential accommodation.
+You can claim HRA exemption by submitting proof of rent receipts to your employer. Alternatively, you can claim the HRA exemption yourself while filing your income tax return.
+I am a self-employed individual. Can I claim an HRA exemption?
+A self-employed individual cannot claim an HRA exemption. However, deduction can be claimed under
+How to claim HRA in the Income Tax Return (ITR)?
+The taxable portion of the HRA component should be included as a part of ‘Salary as per Section 17(1)’.
+An exempt portion of the HRA component is to be added under the heading ‘allowances to the extent exempt u/s 10’ (ensure that it is included in salary income u/s 17 (1), 17(2), 17 (3)).
+online through Cleartax, the software auto-populates the Form 16 component. In such a case, you will just have to verify the amount auto-populated.
+How to claim HRA if not mentioned in Form 16?
+If HRA is not mentioned in Form 16, that means your employer has not provided a separate component of HRA. HRA u/s 10(13A) can be claimed when the employer gives a separate component towards HRA. In the absence of it, you can claim for rent paid under Section 80GG.
+An HRA certificate is a certificate issued by the government employee for claiming house rent allowance for not being able to avail of a government accommodation according to the prescribed procedure.
+While filing returns through Cleartax, you can directly upload Form 16. The details mentioned in Form 16 will auto-populate, including the HRA exemption. However, suppose you don’t have Form 16. In that case, you can add the exempt portion of HRA under the tab Income sources > point 2 exempt allowances under Section 10.
+What happens if proof for HRA exemption is not submitted to the employer?
+If you missed submitting rent receipts or a copy of the rental agreement to your employer at the time of proof submission, you can claim the HRA deduction while filing ITR.
+No, Individuals paying rent but not receiving house rent allowance can claim a deduction under Section 80GG. Also, the individual, spouse or children should not own a house property in the place of employment, business or location where the individual ordinarily resides for claiming this deduction.
+Can I claim HRA if I live in my own house?
+No. You cannot claim HRA if you live in your own house. But you can claim HRA if you are staying in your parents' house, if you have record of rental receipts and have made bank payments of rent every month to parents account.
+What happens if HRA deduction is not claimed in ITR?
+In case you miss claiming the HRA while filing your return, you can file a revised return to correct the error before 31st December of the assessment year or completion of assessment, whichever is earlier.
+HRA is one of the largest component of your salary structure, right after your basic pay. You can find your HRA in your appointment letter, salary payslips, and your Form 16.
+In salary HRA is usually 50% of your basic pay, which differs across organisations. However, for calculating tax exemption for HRA, the lowest of HRA received, rent paid less 10% of basic pay, and 40/50% of your basic pay can be claimed as an exemption under the old regime.
+Can I Claim HRA and Deduction on Home Loan Interest?
+Yes. If you can justify that you have lived in different accommodation and paid rent for the same, you can claim HRA and home loan deduction together.
+How to Claim HRA When Living With Parents?
+Yes. While you are living with parents, you can claim HRA by following these points.
+Document all the rental receipts for the year.
+ICICI Prudential Technology Fund Direct Plan Growth
+Aditya Birla Sun Life Tax Relief 96 Growth
+Aditya Birla Sun Life Digital India Fund Direct Plan Growth
+SBI Technology Opportunities Fund Direct Growth
+Clear offers taxation & financial solutions to individuals, businesses, organizations & chartered accountants in India. Clear serves 1.5+ Million happy customers, 20000+ CAs & tax experts & 10000+ businesses across India.
+Efiling Income Tax Returns(ITR) is made easy with Clear platform. Just upload your form 16, claim your deductions and get your acknowledgment number online. You can efile income tax return on your income from salary, house property, capital gains, business & profession and income from other sources. Further you can also file TDS returns, generate Form-16, use our Tax Calculator software, claim HRA, check refund status and generate rent receipts for Income Tax Filing.
+CAs, experts and businesses can get GST ready with Clear GST software & certification course. Our GST Software helps CAs, tax experts & business to manage returns & invoices in an easy manner. Our Goods & Services Tax course includes tutorial videos, guides and expert assistance to help you in mastering Goods and Services Tax. Clear can also help you in getting your business registered for Goods & Services Tax Law.
+Save taxes with Clear by investing in tax saving mutual funds (ELSS) online. Our experts suggest the best funds and you can get high returns by investing directly or through SIP. Download Black by ClearTax App to file returns from your mobile phone.
+Office Address - Defmacro Software Private Limited, C 245A, Ground floor, Room No 1, Vikas Puri, West Delhi, New Delhi, Delhi 110018, India
+Cleartax is a product by Defmacro Software Pvt. Ltd.

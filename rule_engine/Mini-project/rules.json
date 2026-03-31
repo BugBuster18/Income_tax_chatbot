@@ -1,0 +1,59 @@
+[
+  {
+    "section": "80C",
+    "applicable_to": ["individual", "HUF"],
+    "regime": "old_only",
+    "inputs": ["epf", "ppf", "elss", "lic", "home_loan_principal", "tuition_fees"],
+    "max_limit": 150000,
+    "conditions": [
+      "regime == 'old'"
+    ],
+    "logic": ["cap sum of inputs to 150000"]
+  },
+  {
+    "section": "80D",
+    "applicable_to": ["individual", "HUF"],
+    "regime": "old_only",
+    "inputs": ["health_insurance_self", "health_insurance_family", "health_insurance_parents", "preventive_checkup"],
+    "max_limit": 100000,
+    "conditions": [
+      "regime == 'old'"
+    ],
+    "logic": ["cap self/family to 25k (50k if age>=60)", "cap parents to 25k (50k if age>=60)", "sum of preventive checkup <= 5k"]
+  },
+  {
+    "section": "80CCD(1B) and 80CCD(2)",
+    "applicable_to": ["individual"],
+    "regime": "both",
+    "inputs": ["nps_employee", "nps_employer"],
+    "max_limit": {
+      "80CCD(1B)": 50000,
+      "80CCD(2)": "14% of Basic for New Regime, 10% for Old Regime"
+    },
+    "conditions": [],
+    "logic": ["cap 80CCD(1B) to 50k", "80CCD(1B) only in old regime", "cap 80CCD(2) based on regime basic %"]
+  },
+  {
+    "section": "HRA",
+    "applicable_to": ["individual"],
+    "regime": "old_only",
+    "inputs": ["hra_received", "basic_salary", "da", "rent_paid", "is_metro"],
+    "max_limit": "hra_received",
+    "conditions": [
+      "regime == 'old'"
+    ],
+    "logic": ["min(hra_received, 50% or 40% of basic+da, rent - 10% basic+da)"]
+  },
+  {
+    "section": "Standard Deduction",
+    "applicable_to": ["individual"],
+    "regime": "both",
+    "inputs": ["salary_income"],
+    "max_limit": {
+      "old": 50000,
+      "new": 75000
+    },
+    "conditions": [],
+    "logic": ["deduct max_limit based on regime"]
+  }
+]
