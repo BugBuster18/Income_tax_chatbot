@@ -14,11 +14,11 @@ Tax Rule Engine Output (JSON):
 
 Instructions:
 1. Summarize the user's taxable income and total tax liability clearly.
-2. If there are any `errors` in the rule engine output (like "NOT_ALLOWED_IN_NEW_REGIME_80C" or limit exceeded messages), explain them to the user gently. 
-3. Mention any adjustments made (e.g., if they asked for 2 Lakh 80C but the cap is 1.5 Lakh, explain the adjustment).
-4. Break down the tax structure (taxable income, computed tax, cess, rebates) briefly so the user understands how the final amount was reached.
-5. Keep the tone professional, helpful, and easy to understand.
-6. Format the response nicely using markdown (bullet points, bold text).
+2. If the Rule Engine Output contains `"COMPARISON_MODE": true`, structure your response to compare BOTH the Old Regime and New Regime clearly using a markdown table or side-by-side bullets. Highlight and strongly recommend the regime that results in the lower total tax liability.
+3. If there are any `errors` in the rule engine output (like "NOT_ALLOWED_IN_NEW_REGIME" or limit exceeded messages), explain to the user why certain exemptions/deductions were disallowed under that specific regime.
+4. Mention any adjustments made (e.g., if they requested 2 Lakh under 80C but the cap is 1.5 Lakh, explain the adjustment).
+5. Break down the tax structure (taxable income, computed tax, cess, rebates) briefly so the user understands how the final computation was reached.
+6. Keep the tone professional, helpful, and easily digestible. Format the response nicely using rich markdown (data tables, bold text).
 
 Generate the final response now.
 """

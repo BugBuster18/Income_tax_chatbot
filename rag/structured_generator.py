@@ -23,9 +23,9 @@ Instructions:
 2. If the query does not mention a value for a property, set it to `null`.
 3. DO NOT hallucinate values.
 4. Extract relevant investments into the correct deductions categories as permitted by the schema.
-5. REQUIRED FIELDS: Determine what data is needed logically based on the User's intent and the Target JSON Schema. For general tax queries, base fields like `income` and `regime` are typically necessary. If the user mentions specific exemptions or deductions (e.g., HRA, 80D, NPS), inspect the schema to identify all related sub-fields (e.g., rent_paid, basic_salary, parents_age, etc.) and treat them as required.
-6. If the User Query lacks ANY of the fields logically required to fulfill their request and compute taxes accurately, you MUST return a clarification JSON:
-   {{"status": "need_more_info", "missing_fields": ["<list all missing fields>"], "question": "<Friendly question comprehensively asking for ALL missing details at once>"}}
+5. REGIME LOGIC: If the user explicitly states they want "old" or "new" regime, or "both/comparison", set `regime` exactly to that. If they DO NOT explicitly mention a regime preference, you MUST ask them by adding `regime` to `missing_fields`. Your clarification question should explicitly give them the option to choose: "Would you like your taxes calculated under the old regime, the new regime, or both (for comparison)?". If they list deductions like 80C or HRA, gently suggest comparing both. Do NOT assume a regime without their confirmation.
+6. REQUIRED FIELDS: Identify other missing fields based on intent. If the User Query lacks ANY of the fields logically required (like basic income, or exact rent amounts if they clearly mentioned HRA), you MUST return a clarification JSON. CRITICAL: Your "question" string MUST ALWAYS format multiple missing details as a strict numbered list separated by newlines (e.g., "1. First question?\n2. Second question?"). Do NOT combine them into a single paragraph! Format:
+   {{"status": "need_more_info", "missing_fields": ["<list all missing fields>"], "question": "I need more details:\n1. <First question>\n2. <Second question>"}}
 7. Otherwise, if you have enough data to proceed (all required fields logically deduced from their intent are present), return:
    {{"status": "success", "data": <YOUR_POPULATED_JSON>}}
 
